@@ -1,0 +1,20 @@
+aries	action, beginning	Do I feel energetic? What am I doing to energize myself? What actions am I taking towards my goals? Am I overthinking things? What obstacles are preventing me from just acting?	Just do it.
+taurus	grounded, secure	Do I feel secure, grounded, and committed to my goals? One beautiful thing I saw or will see. One tasty and nutritious meal I ate or will taste. One good song I heard or will listen to. One physical pleasure.	Get grounded, stay committed, and indulge your senses.
+gemini	communication, ideas	Am I communicating well? Who am I feeling connected to? How am I fostering connection? What ideas am I thinking about, and how am I expressing them?	Enable collaborative leadership.
+cancer	nurturing	How am I nurturing my own self? How am I nurturing others? Who makes me feel cared for? How am I caring for others? How am I building my self-esteem? Am I safe, comfortable, and secure? Check in with myself - how am I feeling?	Build your self-esteem.
+leo	fun, pride	3 reasons I'm proud of myself. What is going well for me? What are my strengths. How am I addressing my fears? What are the needs of my inner child?	Celebrate how amazing you are.
+virgo	service, refinement	What is my routine? How can I refine my routine? What habits make me feel strong? What are my responsibilities? What can I improve?
+libra	justice, freedom
+scorpio	sex, transformation	Check-in: How am I feeling? What turns me on? What parts of me are dying; which are being transformed? What parts of me do I value?
+saggitarius	exploration, adventure
+capricorn	work ethic, responsibility
+aquarius	community, health	How am I contributing to the health of my community?
+pisces	creativity, expression	Check in: How am I feeling? How will I express myself artistically? What creative projects can I work on? How can I rejuvenate?
+phase	new moon
+phase	waxing crescent
+phase	waxing half
+phase	waxing gibbous
+phase	full moon
+phase	waning gibbous
+phase	waning half
+phase	waning crescent

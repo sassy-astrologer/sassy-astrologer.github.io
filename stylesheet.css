@@ -1,0 +1,31 @@
+html, body{
+	max-width: 100%;
+	overflow-y: auto;
+	overflow-x: hidden;
+  margin: auto;
+  font-size: 18px;
+
+	/* animation */
+	-webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+	-moz-animation: fadein 1s; /* Firefox < 16 */
+	-ms-animation: fadein 1s; /* Internet Explorer */
+	-o-animation: fadein 1s; /* Opera < 12.1 */
+	animation: fadein 1s;
+}
+
+@keyframes fadein{
+  from	{ opacity: 0; }
+  to		{ opacity: 1; }
+}
+
+body {
+    background: linear-gradient(to top left,#0dcaf0 0%, #6610f2 100%) fixed;
+}
+
+.container{
+	margin-bottom: 100px;
+}
+
+.card {
+	margin-top: 50px;
+}
